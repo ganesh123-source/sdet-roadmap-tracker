@@ -36,3 +36,8 @@ A dynamic, interactive roadmap tracker designed for aspiring Software Developmen
 
 3\. \*Optional:\* To enable cloud saving, replace the Supabase URL and Anon Key at the top of the HTML file with your own credentials.
 
+or 
+
+## 🔗 Live Demo
+[👉 Open SDET_ROADMAP](https://ganesh123-source.github.io/sdet-roadmap-tracker/)
+
